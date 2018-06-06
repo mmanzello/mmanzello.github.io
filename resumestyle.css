@@ -1,0 +1,14 @@
+div.name{
+	font-size: 24px;
+	font-weight: bold;
+	font-family: arial;
+	margin-left: 0%;
+	text-decoration: underline;
+
+}
+div.contents{
+	font-family: arial;
+	font-size: 12px;
+	margin-left: 5%;
+}
+ul{border-left:2px #000 solid;}
